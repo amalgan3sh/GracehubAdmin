@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1722542305;_ci_previous_url|s:30:"http://localhost:8080/register";user_id|i:1;username|s:15:"admin@gmail.com";role|s:5:"admin";logged_in|b:1;alert|a:3:{s:4:"type";s:7:"success";s:5:"title";s:8:"Success!";s:4:"text";s:28:"User registered successfully";}__ci_vars|a:1:{s:5:"alert";s:3:"old";}
